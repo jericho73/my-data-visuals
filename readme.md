@@ -2,6 +2,18 @@
 
 I've listed several Power BI dashboards along with their corresponding datasets. Each dataset is available in the "Datasets" directory within this repository.
 
+#### Global Earthquakes in 2023
+
+![my-data-visuals](./datasets/Global_Earthquakes_2023.png)
+
+The report is crafted to provide an overview of global earthquake occurrences in the year 2023. It encompasses indicators such as earthquake count, maximum and minimum magnitudes. The inclusion of a visually informative world map pinpoints exact locations where earthquakes transpired.
+
+To ensure a unified visual appeal, the design adopts a dark green style.
+
+Beneath the map, the report integrates column and line charts to visually represent maximum magnitudes on a monthly and categorical basis. Additionally, an interactive line chart communicates average magnitudes. 
+
+Dataset: https://www.kaggle.com/datasets/mustafakeser4/earthquakes-2023-global/data
+
 #### HR Dashboard
 
 ![my-data-visuals](./datasets/hr.png)
